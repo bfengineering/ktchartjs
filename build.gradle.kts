@@ -41,7 +41,7 @@ publishing {
                 groupId = "dev.bfengineering"
                 artifactId = "ktchartjs"
                 version = "$ver"
-                artifact("build/libs/render-$ver.jar")
+                artifact("build/libs/ktchartjs-$ver.jar")
             }
         }
 
